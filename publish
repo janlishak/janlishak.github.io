@@ -1,0 +1,4 @@
+#!/bin/bash
+#cd $(pwd)
+rm -r docs/*
+mv ./public/* docs/
