@@ -10,19 +10,17 @@
   for_hire: true
   focus: Learning Web Development
   focus_url: https://janlishak.me/
-  about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+  about:
+    Hey, I’m a young enthusiastic developer interested in working on new projects. To describe me working in developer teem I would say I am very versatile. Rather than specializing on any specific IT area I like to tackle with new challenges and figure problems on the go. I can’t provide you with years of experience, but I think I can make it up by my ability to very quickly learn new frameworks, tools and development techniques.  
   skills:
     - Java
     - Python
-    - HTML / CSS
+    - HTML / CSS /JS
   tools:
+    - Linux
+    - Git
     - IntelliJ IDEA
     - VSCode
-    - Git
-    - Linux
   budget:
     currency: $
     min: 5

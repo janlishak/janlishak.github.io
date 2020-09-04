@@ -1,0 +1,5 @@
+
+    const cmd = require("/myhome/jan/janlishak.github.io/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":36169,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/myhome/jan/janlishak.github.io","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"janlishak.github.io","version":"1.0.0","main":"index.js","repository":"https://github.com/janlishak/janlishak.github.io.git","author":"Jan Lishak <35602700+janlishak@users.noreply.github.com>","license":"MIT","dependencies":{"@wkocjan/gatsby-theme-intro":"^1.0.12","gatsby":"^2.24.45","html2canvas":"^1.0.0-rc.7","jspdf":"^2.0.0","react":"^16.13.1","react-dom":"^16.13.1"}},"report":{},"useYarn":true,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
